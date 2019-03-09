@@ -1,7 +1,10 @@
 #include <stdio.h>  
    
 int main() {  
-    int a, b;  
+    int a, b;
+    case $develop in 
+	vdkjbb)
+		ssh
     printf("Please Enter Two different values\n");  
     scanf("%d %d", &a, &b);  
     
