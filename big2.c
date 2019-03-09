@@ -2,9 +2,7 @@
    
 int main() {  
     int a, b;
-    case $develop in 
-	vdkjbb)
-		ssh
+    echo "my name is nothing"
     printf("Please Enter Two different values\n");  
     scanf("%d %d", &a, &b);  
     
